@@ -103,7 +103,8 @@ function insertText(inputContent, type) {
 
 ```
 
-She gets an input then inserts it to create thhe text.
+sequencing list of steps filtertion with the foreach
+She gets an input then inserts it to create the text.
 
 Butters
 
@@ -122,7 +123,7 @@ const createQuoteCard = function (quoteCurrent) {
 
 ```
 
-This uses an input to insert it into a card he made.
+This uses an input to insert it into a card he made. You can see he enters the api and gets the author and category of the quote.
 
 ---
 
